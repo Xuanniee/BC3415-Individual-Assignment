@@ -1,0 +1,4 @@
+tfmacenv/
+vit-checkpoints/
+cnn-checkpoints/
+bert_sentiment_best/
